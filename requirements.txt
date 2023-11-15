@@ -1,0 +1,10 @@
+transformers
+torch
+langchain
+streamlit
+easyocr
+PyPDF2
+pytesseract
+opencv-python
+PyMuPDF
+openai
